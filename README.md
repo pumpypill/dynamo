@@ -6,8 +6,6 @@
 
 ---
 
-**Donation:** `Sybf1gfcSQxQN8VBVzPMysQm3GfKtfzJptbDDjcf2jg`
-
 </div>
 
 ## Overview
